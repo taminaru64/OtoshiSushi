@@ -1,9 +1,9 @@
 const cacheName = "taminaru64-OtoshiSushi-1.0";
 const contentToCache = [
     "Build/OtoshiSushi.loader.js",
-    "Build/OtoshiSushi.framework.js.br",
-    "Build/OtoshiSushi.data.br",
-    "Build/OtoshiSushi.wasm.br",
+    "Build/OtoshiSushi.framework.js",
+    "Build/OtoshiSushi.data",
+    "Build/OtoshiSushi.wasm",
     "TemplateData/style.css"
 
 ];
